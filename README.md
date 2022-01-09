@@ -80,7 +80,7 @@ Because I think there may be many people(like me in the first) not knowing how t
 ![image](https://user-images.githubusercontent.com/72622577/148678545-fb4110c2-e711-4cb6-a36b-318e3ffd71ca.png)
 
 
-1. To know what we need
+1. To know what it means
 
 ![image](https://user-images.githubusercontent.com/72622577/148678823-a9d37588-1acd-471f-8916-1d775e6bbd7f.png)![image](https://user-images.githubusercontent.com/72622577/148678577-29f30b36-26de-40f7-9779-d7e3aa5f71f5.png)
 
@@ -224,10 +224,18 @@ https://www.youtube.com/watch?v=ETbgiXe8o58
 
 https://ithelp.ithome.com.tw/articles/10238029
 
+https://github.com/adafruit/Adafruit_Python_DHT
+
 https://shumeipai.nxez.com/2018/05/16/dht11-temperature-and-humidity-sensor-raspberry-pi.html
 
 **Line Bot:**
 
 https://github.com/line/line-bot-sdk-python
 
+https://ithelp.ithome.com.tw/articles/10229943
+
 **Others:**
+
+https://github.com/chung-coder/Iot-bartender
+
+https://hackmd.io/@fGmzd-CTSGSBPbmj6Sr-nw/BJ06WFw0P#Green-House
