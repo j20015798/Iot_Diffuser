@@ -21,8 +21,6 @@ This is an **Smart Essential Oil Diffuser** which we can chose the flavors and t
 * 4 Channel DC 5V Relay Module (4路繼電器)*1
 * Water Atomization Module (超音波水霧化模組) *1
 * DHT22 (溫溼度感測器)*1
-* Water Sensor *1 
-* MCP3008 *1
 * Breadboard *1
 * Dupont Line *n
 * Essential oil *3
