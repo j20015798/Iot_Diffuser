@@ -5,8 +5,7 @@ This is an **Smart Essential Oil Diffuser** which we can chose the flavors and t
 
 ## Line Bot UI
 
-![image](https://user-images.githubusercontent.com/72622577/148673938-373593e3-26bb-4282-84e7-53b244262bb7.png)
-
+![image](https://user-images.githubusercontent.com/72622577/148680489-f0196068-06e1-40d4-84b9-7d55a86cc11a.png)
 
 ## Components
 **Hardware**
@@ -90,11 +89,12 @@ Because I think there may be many people(like me in the first) not knowing how t
 
 2. Cut off the female end & Strip the outer insulation from wire
 
+After cutting down a bit, we can see where the wires go.
+
  **Don't have this plug in until you have everything hooked up!**
  
 ![image](https://user-images.githubusercontent.com/72622577/148679627-c8604881-a159-4abc-ad99-a2f9555756de.png)
 
-After cutting down a bit, we can see where the wires go.
 
 3. Hook it up with power supply
 
