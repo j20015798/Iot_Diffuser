@@ -77,18 +77,36 @@ $ sudo pip3 install line-bot-sdk</pre></code>
 ### Set up 12V Switching Power Supply with our devices
 Each of our pumps and water automization module need *12VDC* input to be activated, but our raspberry pi can't offer that much power, so we need to use power supply to *transform its 110AC input into 12VDC ouput* to supply our devices the power needed.
 Because I think there may be many people(like me in the first) not knowing how to use power supply, I'll show a simple tutorial below.
-![image](https://user-images.githubusercontent.com/72622577/148678545-fb4110c2-e711-4cb6-a36b-318e3ffd71ca.png)![image](https://user-images.githubusercontent.com/72622577/148678577-29f30b36-26de-40f7-9779-d7e3aa5f71f5.png)
+![image](https://user-images.githubusercontent.com/72622577/148678545-fb4110c2-e711-4cb6-a36b-318e3ffd71ca.png)
 
 
 1. To know what we need
 
-![image](https://user-images.githubusercontent.com/72622577/148678823-a9d37588-1acd-471f-8916-1d775e6bbd7f.png)
->L = *how wire*, is usually **black**
-N = *neutural wire*, is usually **white**
-Weird gesture = *ground wire*, is usually **green**
-3. Cut the 
-4. Hook it up with other device to test if it works
+![image](https://user-images.githubusercontent.com/72622577/148678823-a9d37588-1acd-471f-8916-1d775e6bbd7f.png)![image](https://user-images.githubusercontent.com/72622577/148678577-29f30b36-26de-40f7-9779-d7e3aa5f71f5.png)
 
+>* L = *ho wire*, is usually **black**
+>* N = *neutural wire*, is usually **white**
+>* Weird gesture = *ground wire*, is usually **green**
+
+2. Cut off the female end & Strip the outer insulation from wire
+
+ **Don't have this plug in until you have everything hooked up!**
+ 
+![image](https://user-images.githubusercontent.com/72622577/148679627-c8604881-a159-4abc-ad99-a2f9555756de.png)
+
+After cutting down a bit, we can see where the wires go.
+
+3. Hook it up with power supply
+
+The led lights will be on if you plug in. 
+
+![image](https://user-images.githubusercontent.com/72622577/148680210-52835a7e-d224-4431-964b-00a641dff3fb.png)
+
+4. Test whether it can work
+
+![image](https://user-images.githubusercontent.com/72622577/148680425-32e9bac5-b509-49e4-a73d-785a20736ab9.png)
+
+Success!!
 ## Build up LineBot
 
 
