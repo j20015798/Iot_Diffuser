@@ -139,7 +139,7 @@ Because I think there may be many people(like me in the first) not knowing how t
 ## Build up LineBot
 Following I'll show you how to create a **Line Bot** and how to use **ngrok**.
 ### Line Bot
-1. Enter [Line Developer](https://developers.line.biz/zh-hant/) & create a new Provider
+1. Enter [Line Developers](https://developers.line.biz/zh-hant/) & create a new Provider
 
 ![image](https://user-images.githubusercontent.com/72622577/148682107-36cf526a-a75c-4696-8807-6714c0bcd089.png)
 
@@ -159,7 +159,7 @@ Following I'll show you how to create a **Line Bot** and how to use **ngrok**.
 
 4. Get Channel access token & Channel secret
 
-**They are private information, don't reveal them to others!**
+   **They are private information, don't reveal them to others!**
 
 ![image](https://user-images.githubusercontent.com/72622577/148682219-6482873c-64df-475c-8a81-88b49b893a1a.png)
 
@@ -169,7 +169,32 @@ Following I'll show you how to create a **Line Bot** and how to use **ngrok**.
 
 ![image](https://user-images.githubusercontent.com/72622577/148682235-973a4bd6-3b4c-46ef-9d16-db2f135ee770.png)
 
+5. Program your Line Bot code
 
+### ngrok
+**Ngrok is a cross-platform application that exposes local server ports to the Internet.**
+For those who don't have static IP address, ngrok is a good service to make others connect to your website temporarily.
+
+1. Download & apply for [ngrok](https://ngrok.com/download)
+
+2. Choose your OS version, and enter the command to your terminal
+   **You should download the file in your raspberry pi!**
+![image](https://user-images.githubusercontent.com/72622577/148682562-33812958-fd33-492f-ab1c-1cf13af26315.png)
+
+>If you forget what bit is your raspberry pi, just enter the ```$ hostnamectl``` in terminal, and check **Architecture**
+>![image](https://user-images.githubusercontent.com/72622577/148682732-47b65c20-c6f3-4d67-b32b-98f7e3da9c89.png)
+
+3. Register an account, and get your Authtoken
+
+![image](https://user-images.githubusercontent.com/72622577/148682822-3f8c5aac-5dc0-4f86-9549-7e5c251c3805.png)
+
+4. Make our Python script connect with ngrok correctly
+   **You don't need to press "Verity" on line developers in this step.**
+![image](https://user-images.githubusercontent.com/72622577/148682871-ebfdcffb-6b96-4373-aa57-3dcca81029fd.png)
+
+![image](https://user-images.githubusercontent.com/72622577/148682893-1393f9f4-af42-436e-8da3-6229f78a1c29.png)
+
+![image](https://user-images.githubusercontent.com/72622577/148682918-083c5676-b41d-44d5-be70-6752d04e2e01.png)
 
 ## Failures or difficulty I met
 
