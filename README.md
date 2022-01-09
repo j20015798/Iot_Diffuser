@@ -72,7 +72,7 @@ $ sudo pip3 install line-bot-sdk</pre></code>
 
 
 
-## Build up the Hardwares
+## Build up the machine
 ### Set up 12V Switching Power Supply
 Each of our pumps and water automization module need *12VDC* input to be activated, but our raspberry pi can't offer that much power, so we need to use power supply to *transform its 110AC input into 12VDC ouput* to supply our devices the power needed.
 Because I think there may be many people(like me in the first) not knowing how to use power supply, I'll show a simple tutorial below.
@@ -83,7 +83,7 @@ Because I think there may be many people(like me in the first) not knowing how t
 
 ![image](https://user-images.githubusercontent.com/72622577/148678823-a9d37588-1acd-471f-8916-1d775e6bbd7f.png)![image](https://user-images.githubusercontent.com/72622577/148678577-29f30b36-26de-40f7-9779-d7e3aa5f71f5.png)
 
->* L = *ho wire*, is usually **black**
+>* L = *hot wire*, is usually **black**
 >* N = *neutural wire*, is usually **white**
 >* Weird gesture = *ground wire*, is usually **green**
 
@@ -93,8 +93,7 @@ After cutting down a bit, we can see where the wires go.
 
  **Don't have this plug in until you have everything hooked up!**
  
-![image](https://user-images.githubusercontent.com/72622577/148679627-c8604881-a159-4abc-ad99-a2f9555756de.png)
-
+![image](https://user-images.githubusercontent.com/72622577/148681351-803314eb-3c63-4b71-8fbf-179c6498c131.png)
 
 3. Hook it up with power supply
 
@@ -118,7 +117,7 @@ You should cut a circle with 1.3mm diameters one the plastic and make the automi
 
 2. Put a sponge in the container
 
-Use a sponge to absorb the water our automizer needs.
+Use a sponge to absorb the water our automizer needs.(I only use types to make it fixed haha.)
 
 ![image](https://user-images.githubusercontent.com/72622577/148680921-1def2e1b-2eef-4a07-8d7b-bc590900c8ce.png)
 
@@ -127,6 +126,13 @@ Use a sponge to absorb the water our automizer needs.
 With the pumps elevated behind, we get a simple diffuser which can receive the essentail oils drip down!
 
 ![image](https://user-images.githubusercontent.com/72622577/148681032-403b8b95-ca19-46f5-bfa3-771dc77ab67e.png)
+
+### Other hardware part be like
+
+![image](https://user-images.githubusercontent.com/72622577/148681286-78c96422-0c8b-4e5d-8725-ee8f5249b6f5.png)
+![image](https://user-images.githubusercontent.com/72622577/148681396-d1a7ff37-6ac3-4e7e-be37-b2366b3a7b14.png)
+![image](https://user-images.githubusercontent.com/72622577/148681400-fc19bc17-9972-4649-b2bf-64214eb69c65.png)
+
 
 ## Build up LineBot
 
