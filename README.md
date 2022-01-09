@@ -196,7 +196,23 @@ For those who don't have static IP address, ngrok is a good service to make othe
 
 ![image](https://user-images.githubusercontent.com/72622577/148682918-083c5676-b41d-44d5-be70-6752d04e2e01.png)
 
-## Failures or difficulty I met
+5. Execute our Python script and press "Verity"
+   **You must run your python file first(open a new terminal), or Line don't know which program will it connect with.
+   **Once you close the ngrok terminal you are using, the URL will be invalid, and you need to change Webhook URL everytime you restart ngrok.
+   
+![image](https://user-images.githubusercontent.com/72622577/148682994-bcc65dd7-11b5-4162-aabe-ceb13c9eb474.png)
+
+Success!
+
+>Meanwile, check your ngrok terminal:  
+>200: Successfully  
+>500 INTERNEL ERROR: Often occurs when you have bugs in your code.  
+>502 BAD GATEWAY: Often occurs when you don't execute your progam. Check if your file be runned.
+
+## Future Improvement
+* Set up **Timer**, then it can operate in specific session.
+* Use **water sensor** to detect if it run out of the water.
+* Make a more **organized container** which can place our components neatly. 
 
 
 ## References
