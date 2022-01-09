@@ -84,8 +84,8 @@ Because I think there may be many people(like me in the first) not knowing how t
 
 ![image](https://user-images.githubusercontent.com/72622577/148678823-a9d37588-1acd-471f-8916-1d775e6bbd7f.png)
 >L = *how wire*, is usually **black**
->N = *neutural wire*, is usually **white**
->Weird gesture = *ground wire*, is usually **green**
+N = *neutural wire*, is usually **white**
+Weird gesture = *ground wire*, is usually **green**
 3. Cut the 
 4. Hook it up with other device to test if it works
 
