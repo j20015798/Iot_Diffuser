@@ -6,7 +6,9 @@ This is an **Smart Essential Oil Diffuser** which we can chose the flavors and t
 ![image](https://user-images.githubusercontent.com/72622577/148681032-403b8b95-ca19-46f5-bfa3-771dc77ab67e.png)
 
 ## Line Bot UI
-** Click me to see [Demo Video](https://www.youtube.com/shorts/kYZfMyeKGzk)!
+
+**[Click me to see Demo Video!](https://www.youtube.com/shorts/kYZfMyeKGzk)**
+
 ![image](https://user-images.githubusercontent.com/72622577/148680489-f0196068-06e1-40d4-84b9-7d55a86cc11a.png)
 
 ## Components
