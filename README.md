@@ -42,7 +42,7 @@ This is an **Smart Essential Oil Diffuser** which we can chose the flavors and t
 
 ## Preprocessing
 I'll put on some commands I've used in particular need.
-Because I'm using python3 to coding, so I will use *python3* or *pip3* to enter commands.
+Because I code with python3, so I will use *python3* or *pip3* to enter commands.
 **Before executing following steps, make sure your system is able to compile and download Python extensions with *pip*:**
 >if not:
 ><pre><code>$ sudo apt-get update
@@ -63,7 +63,7 @@ $ sudo python3 setup.py install</code></pre>
 3. Execute the monitor program
 <pre><code>$ cd examples
 $ sudo python3 AdafruitDHT.py 22 4 </pre></code>
-22 stands for using DHT22, 4 stands for DHT22's Data line is on GPIO 4.
+   22 stands for using DHT22, 4 stands for DHT22's Data line is on GPIO 4.
 
 4. If success, you can get the humidity and temperature
 <pre><code>Temp=22.0* Humidity=68.0%</pre></code>
