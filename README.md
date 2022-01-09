@@ -65,7 +65,7 @@ $ sudo python3 AdafruitDHT.py 22 4 </pre></code>
 ### Using Line Bot
 Install **flask** and **line-bot-sdk**
 <pre><code>$ sudo pip3 install flask
-$sudo pip3 install line-bot-sdk</pre></code>
+$ sudo pip3 install line-bot-sdk</pre></code>
 
 ### Using Chinese 
 
@@ -73,6 +73,8 @@ $sudo pip3 install line-bot-sdk</pre></code>
 
 
 ## Build up Diffuser
+### Using 12V Switching Power Supply
+Because I think there may be many people(like me in the first) not knowing how to use power supply, I'll show a simple tutorial below.
 
 
 ## Build up LineBot
