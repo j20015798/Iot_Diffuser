@@ -38,6 +38,8 @@ This is an **Smart Essential Oil Diffuser** which we can chose the flavors and t
 
 ## Circuit Diagram
 
+![Untitled Sketch_bb](https://user-images.githubusercontent.com/72622577/148690011-cbf38ec6-cffb-425d-87a6-6ec8c1cda83a.png)
+
 ## Preprocessing
 I'll put on some commands I've used in particular need.
 Because I'm using python3 to coding, so I will use *python3* or *pip3* to enter commands.
