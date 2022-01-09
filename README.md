@@ -56,13 +56,16 @@ $ sudo python3 setup.py install</code></pre>
 
 3. Execute the monitor program
 <pre><code>$ cd examples
-$ sudo python3 AdafruitDHT.py 11 4 #11 stands for using DHT22, 4 stands for DHT22's Data line is on GPIO 4</pre></code>
+$ sudo python3 AdafruitDHT.py 22 4 </pre></code>
+22 stands for using DHT22, 4 stands for DHT22's Data line is on GPIO 4.
 
-
-
-
+4. If success, you can get the humidity and temperature
+<pre><code>Temp=22.0* Humidity=68.0%</pre></code>
 
 ### Using Line Bot
+Install **flask** and **line-bot-sdk**
+<pre><code>$ sudo pip3 install flask
+$sudo pip3 install line-bot-sdk</pre></code>
 
 ### Using Chinese 
 
