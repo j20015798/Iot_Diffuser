@@ -13,6 +13,7 @@ This is an **Smart Essential Oil Diffuser** which we can chose the flavors and t
 * Raspberry Pi 4 *1
 * Power cable (for raspberry pi) *1
 * 12V Switching Power Supply (電源供應器)*1
+* 
 * Peristaltic pump (蠕動馬達/幫浦) *3
 * 4 Channel DC 5V Relay Module (4路繼電器)*1
 * Water Atomization Module (超音波水霧化模組) *1
@@ -73,7 +74,8 @@ $ sudo pip3 install line-bot-sdk</pre></code>
 
 
 ## Build up Diffuser
-### Using 12V Switching Power Supply
+### Hook up 12V Switching Power Supply with our devices
+Each of our pumps and water automization module need 12VDC input to be activated, but our rasp pi can't offer that much power, so we need to use power supply to transform its 110AC input into 12VDC ouput to supply our devices the power needed.
 Because I think there may be many people(like me in the first) not knowing how to use power supply, I'll show a simple tutorial below.
 
 
