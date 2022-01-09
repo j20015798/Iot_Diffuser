@@ -180,6 +180,7 @@ For those who don't have static IP address, ngrok is a good service to make othe
 1. Download & apply for [ngrok](https://ngrok.com/download)
 
 2. Choose your OS version, and enter the command to your terminal
+
    **You should download the file in your raspberry pi!**
 ![image](https://user-images.githubusercontent.com/72622577/148682562-33812958-fd33-492f-ab1c-1cf13af26315.png)
 
@@ -191,6 +192,7 @@ For those who don't have static IP address, ngrok is a good service to make othe
 ![image](https://user-images.githubusercontent.com/72622577/148682822-3f8c5aac-5dc0-4f86-9549-7e5c251c3805.png)
 
 4. Make our Python script connect with ngrok correctly
+
    **You don't need to press "Verity" on line developers in this step.**
 ![image](https://user-images.githubusercontent.com/72622577/148682871-ebfdcffb-6b96-4373-aa57-3dcca81029fd.png)
 
@@ -199,7 +201,9 @@ For those who don't have static IP address, ngrok is a good service to make othe
 ![image](https://user-images.githubusercontent.com/72622577/148682918-083c5676-b41d-44d5-be70-6752d04e2e01.png)
 
 5. Execute our Python script and press "Verity"
+
    **You must run your python file first(open a new terminal), or Line don't know which program will it connect with.**
+   
    **Once you close the ngrok terminal you are using, the URL will be invalid, and you need to change Webhook URL everytime you restart ngrok.
    
 ![image](https://user-images.githubusercontent.com/72622577/148682994-bcc65dd7-11b5-4162-aabe-ceb13c9eb474.png)
