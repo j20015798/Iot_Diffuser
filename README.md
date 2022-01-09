@@ -79,6 +79,7 @@ $ sudo pip3 install line-bot-sdk</pre></code>
 ### Set up 12V Switching Power Supply
 Each of our pumps and water automization module need *12VDC* input to be activated, but our raspberry pi can't offer that much power, so we need to use power supply to *transform its 110AC input into 12VDC ouput* to supply our devices the power needed.
 Because I think there may be many people(like me in the first) not knowing how to use power supply, I'll show a simple tutorial below.
+
 ![image](https://user-images.githubusercontent.com/72622577/148678545-fb4110c2-e711-4cb6-a36b-318e3ffd71ca.png)
 
 
@@ -108,8 +109,7 @@ Because I think there may be many people(like me in the first) not knowing how t
 
 ![image](https://user-images.githubusercontent.com/72622577/148680425-32e9bac5-b509-49e4-a73d-785a20736ab9.png)
 
-   Success!!
-### Set up the Relay Module
+   Success!
 
 ### Set up the diffuser
 
