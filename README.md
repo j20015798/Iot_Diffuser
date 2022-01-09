@@ -36,7 +36,7 @@ This is an **Smart Essential Oil Diffuser** which we can chose the flavors and t
 
 ## Circuit Diagram
 
-![Untitled Sketch_bb](https://user-images.githubusercontent.com/72622577/148690067-6c01d81c-7d9e-45db-b014-78b7e2582f90.png)
+![Untitled Sketch_bb](https://user-images.githubusercontent.com/72622577/148697988-4eb10b2a-509e-42a4-802d-faab68c89843.png)
 
 ## Preprocessing
 I'll put on some commands I've used in particular need.
