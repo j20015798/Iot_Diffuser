@@ -72,8 +72,8 @@ $ sudo pip3 install line-bot-sdk</pre></code>
 
 
 
-## Build up Diffuser
-### Set up 12V Switching Power Supply with our devices
+## Build up the Hardwares
+### Set up 12V Switching Power Supply
 Each of our pumps and water automization module need *12VDC* input to be activated, but our raspberry pi can't offer that much power, so we need to use power supply to *transform its 110AC input into 12VDC ouput* to supply our devices the power needed.
 Because I think there may be many people(like me in the first) not knowing how to use power supply, I'll show a simple tutorial below.
 ![image](https://user-images.githubusercontent.com/72622577/148678545-fb4110c2-e711-4cb6-a36b-318e3ffd71ca.png)
@@ -107,6 +107,27 @@ The led lights will be on if you plug in.
 ![image](https://user-images.githubusercontent.com/72622577/148680425-32e9bac5-b509-49e4-a73d-785a20736ab9.png)
 
 Success!!
+
+### Set up the diffuser
+
+1. Paste the automizer on the plastic without 
+
+You should cut a circle with 1.3mm diameters one the plastic and make the automizer stick on it.
+
+![image](https://user-images.githubusercontent.com/72622577/148680783-7a926702-0423-42a5-bb63-61bcc2e66c45.png)
+
+2. Put a sponge in the container
+
+Use a sponge to absorb the water our automizer needs.
+
+![image](https://user-images.githubusercontent.com/72622577/148680921-1def2e1b-2eef-4a07-8d7b-bc590900c8ce.png)
+
+3. Combination
+
+With the pumps elevated behind, we get a simple diffuser which can receive the essentail oils drip down!
+
+![image](https://user-images.githubusercontent.com/72622577/148681032-403b8b95-ca19-46f5-bfa3-771dc77ab67e.png)
+
 ## Build up LineBot
 
 
