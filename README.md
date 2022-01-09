@@ -35,6 +35,39 @@ This is an **Smart Essential Oil Diffuser** which we can chose the flavors and t
 ## Circuit Diagram
 
 ## Preprocessing
+I'll put on some commands I've used in particular need.
+Because I'm using python3 to coding, so I will use *python3* or *pip3* to enter commands.
+**Before executing following steps, make sure your system is able to compile and download Python extensions with *pip*:**
+>if not:
+><pre><code>$ sudo apt-get update
+>$ sudo apt-get install python3-pip
+>$ sudo python3 -m pip install --upgrade pip setuptools wheel</pre></code>
+
+### Using DHT22
+1. Install **build-essentail** and **python-dev**
+<pre><code>$ sudo apt-get update
+$ sudo apt-get install build-essential python-dev</code></pre>
+
+
+2.  Download and install **Adafruit_Python_DHT**
+<pre><code>$ git clone https://github.com/adafruit/Adafruit_Python_DHT
+$ cd  Adafruit_Python_DHT
+$ sudo python3 setup.py install</code></pre>
+
+3. Execute the monitor program
+<pre><code>$ cd examples
+$ sudo python3 AdafruitDHT.py 11 4 #11 stands for using DHT22, 4 stands for DHT22's Data line is on GPIO 4</pre></code>
+
+
+
+
+
+### Using Line Bot
+
+### Using Chinese 
+
+
+
 
 ## Build up Diffuser
 
