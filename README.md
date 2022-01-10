@@ -115,7 +115,7 @@ Because I think there may be many people(like me in the first) not knowing how t
 
 1. Paste the automizer on the plastic without 
 
-   You should cut a circle with 1.3mm diameters one the plastic and make the automizer stick on it.
+   You should cut a circle with 1.3cm diameters one the plastic and make the automizer stick on it.
 
 ![image](https://user-images.githubusercontent.com/72622577/148680783-7a926702-0423-42a5-bb63-61bcc2e66c45.png)
 
