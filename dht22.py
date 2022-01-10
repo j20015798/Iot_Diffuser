@@ -1,3 +1,5 @@
+``` The code is cited from https://shumeipai.nxez.com/2018/05/16/dht11-temperature-and-humidity-sensor-raspberry-pi.html ```
+
 import Adafruit_DHT
   
 # Set sensor type : Options are DHT11,DHT22 or AM2302
