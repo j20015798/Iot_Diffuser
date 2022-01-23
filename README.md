@@ -3,8 +3,7 @@
 ## Overview
 This is an **Smart Essential Oil Diffuser** which we can chose the flavors and the amount of essential oil and power up/off the diffuser directly on your LINE with your smartphone. Why I want to do this project is because most Essential Oil Diffusers on the market need to be added essential oils with your own hands, and turn it on or off in person. For lazy man like me, if I am lying on the sofa but wanna use my diffuser, these actions would seem to be a bit troblesome, so I want to create a easier and convenient way to use this kind of machine.
 
-![image](https://user-images.githubusercontent.com/72622577/148681032-403b8b95-ca19-46f5-bfa3-771dc77ab67e.png)
-
+![image](https://user-images.githubusercontent.com/72622577/150685906-a3617926-aaf3-45ec-aef8-14b030892264.png)
 ## Line Bot UI
 
 **[Click me to see Demo Video!](https://www.youtube.com/shorts/kYZfMyeKGzk)**
@@ -133,9 +132,8 @@ Because I think there may be many people(like me in the first) not knowing how t
 
 ### Other hardware parts be like
 
-![image](https://user-images.githubusercontent.com/72622577/148681286-78c96422-0c8b-4e5d-8725-ee8f5249b6f5.png)
-![image](https://user-images.githubusercontent.com/72622577/148681396-d1a7ff37-6ac3-4e7e-be37-b2366b3a7b14.png)
-![image](https://user-images.githubusercontent.com/72622577/148681400-fc19bc17-9972-4649-b2bf-64214eb69c65.png)
+![image](https://user-images.githubusercontent.com/72622577/150685823-05cc21b4-aae9-44d9-b2fd-f3dbade12e10.png)
+![image](https://user-images.githubusercontent.com/72622577/150685876-e9d6c40c-7570-416a-aeb3-861a2052c017.png)![image](https://user-images.githubusercontent.com/72622577/148681396-d1a7ff37-6ac3-4e7e-be37-b2366b3a7b14.png)
 
 
 ## Build up LineBot
